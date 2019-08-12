@@ -1,0 +1,23 @@
+
+
+body {
+    margin: 0px;
+    font-size: 16px;
+    line-height: 1.7;
+}
+.container {
+    padding: 50px 0px;
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.title {
+    font-size: 36px;
+}
+.subtitle {
+    font-size: 18px;
+    font-style: italic;
+}
+.tekst-song {
+    line-height: 1.5;  
+}
