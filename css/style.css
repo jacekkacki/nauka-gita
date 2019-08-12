@@ -19,5 +19,9 @@ body {
     font-style: italic;
 }
 .tekst-song {
-    line-height: 1.5;  
+    line-height: 1.5;
+}
+.tekst-song span {
+    font-weight: 500;
+    font-family: cursive;
 }
