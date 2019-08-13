@@ -6,22 +6,24 @@ body {
     line-height: 1.7;
 }
 .container {
-    padding: 50px 0px;
+    padding: 50px 10px;
     text-align: left;
     max-width: 800px;
     margin: 0 auto;
 }
 .title {
+    display: flex;  
     font-size: 36px;
 }
 .subtitle {
     font-size: 18px;
     font-style: italic;
+    color: #0984e3;
 }
 .tekst-song {
-    line-height: 1.5;
+    line-height: 1.4;
 }
 .tekst-song span {
-    font-weight: 500;
+    font-weight: 600;
     font-family: cursive;
 }
